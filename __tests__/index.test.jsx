@@ -12,8 +12,8 @@ describe("Page Testing", () => {
   });
 
   afterEach(() => {
-    //jest.runOnlyPendingTimers()
-    //jest.useRealTimers();
+    jest.runOnlyPendingTimers()
+    jest.useRealTimers();
   });
 
   const data = jsonData.data;
