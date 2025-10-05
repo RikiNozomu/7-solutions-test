@@ -1,3 +1,5 @@
+# Testing project for 7 Solution Front-End testing Part 1
+
 This is a project for [`7 Solution Front-End testing`](https://github.com/7-solutions/frontend-assignment).
 
 ## Getting Started
